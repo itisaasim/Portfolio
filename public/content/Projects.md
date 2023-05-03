@@ -5,7 +5,7 @@ Youtube Clone
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/itisaasim/Video-Tube]
 
 ## Trouvaille
 Description
@@ -14,7 +14,7 @@ Description
 - Badges:
   - Badge [green]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/itisaasim/Trouvaille]
 
 ## Drop Box
 Description
@@ -23,4 +23,4 @@ Description
 - Badges:
   - Badge [blue]
 - Buttons:
-  - Link [https://example.com]
+  - Link [https://github.com/itisaasim/Drop-Box]
