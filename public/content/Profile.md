@@ -7,10 +7,10 @@
 
 
 ## About
-Write your "About" section here.
+A modern-day alchemist who turns coffee into code, keystrokes into interfaces, and ideas into digital realities.
 
 ## Contact
-Write your "Contact" section here.
+
 - LinkedIn: https://linkedin.com/in/itsaasim
 - GitHub: https://github.com/itisaasim
 - Email: itisaasim@gmail.com
